@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+.menu-logoSite{
+    height: 150px;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 40%;
+}
+
+.menu{
+    display: flex;
+    justify-content:space-evenly;
+    padding: 10px 15px;
+    background-color: #111111;
+}
+
+.menu-divlinks{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+
+.menu-links{
+    color: rgb(219, 219, 219);
+    text-decoration: none;
+}
+
+.menu-listaLinks{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+
+.header{
+    background-color: rgb(30, 75, 28);
+    padding: 50px;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.header-aside{
+    color: rgba(255, 255, 255, 0.596);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 20px;
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-color: rgba(255, 255, 255, 0.308);
+}
+
+.main-image{
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.main-section1{
+    width: 80%;
+    margin: 0 auto;
+    padding: 30px 0;
+    display: flex;
+}
+
+.main-section1 img{
+    border-radius: 50%;
+    width: 15%;
+    
+}
+
+.main-section1 h2{
+    padding: 10px 0 0 0;
+    border-bottom: 2px solid  #263d2e;;
+    margin-left: 15px ;
+}
+
+.main-section1 p{
+    margin-left: 20px ;
+    text-align: justify;
+    line-height: 1.5;
+
+}
+
+.footer{
+    background-color: #111111;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    
+    
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.main-section1 p{
+    margin-left: 20px ;
+    text-align: justify;
+    line-height: 1.4;
+
+}
+
+.TokensFeitos{
+    text-align: center;
+    justify-content:space-evenly;
+    padding: 25px;
+    background-color: #5a5a5a73;
+    border-radius:20%;
+    margin: 20px;
+    
+}
+
+.TokensFeitos img{
+    border-radius: 0%;
+}
+
+.Tokensh2{
+    font-size: 45px;
+    text-align: center;
+}
+
+.Tokensh4{
+    margin-left: 20px;
+}
+.bg{
+    background-color: #5a5a5a73;
+    border-radius:20%;
+    margin-bottom: 150px;
+}
+
+.bgMarcas{
+    background-color: #000000e0;
+    width: 100%;
+    align-items: right;
+    padding: 0px;
+    border-radius: 40px;
+
+}
+
+.marcadoTxt{
+    color: white;
+    font-size: 12px;
+}
